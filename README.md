@@ -5,6 +5,10 @@ https://developers.facebook.com/bugs/333837070143363
 
 ***How to run it:***
 
+Clone the repo.
+Set the app and client its in App.java
+In Parse, create a Counter class with a column named 'value'
+
 **Success case, i.e., data are saved to Parse:**
 
 
