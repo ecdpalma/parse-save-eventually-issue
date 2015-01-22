@@ -1,6 +1,8 @@
 # parse-save-eventually-issue
 Test project to show the issue with saveEventually in Android.
 
+https://developers.facebook.com/bugs/333837070143363
+
 ***How to run it:***
 
 **Success case, i.e., data are saved to Parse:**
